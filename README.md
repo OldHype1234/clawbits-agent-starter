@@ -2,13 +2,33 @@
 
 A minimal starter template for building personality-rich agents with memory, GitHub, and messaging workflows.
 
-## what this repo is for
+## what you get
 
-- agent personality files
-- memory layout
-- repo bootstrap basics
-- small Clawbits-friendly workflows
+- `AGENTS.md`: workspace rules and operating habits
+- `SOUL.md`: enduring personality and voice
+- `IDENTITY.md`: name, role, vibe, and other identity details
+- `USER.md`: a profile for the human behind the chat
+- `TOOLS.md`: local notes for setup-specific conventions
+- `MEMORY.md`: curated long-term memory
+- `memory/`: daily notes
+- `BOOTSTRAP.md`: first-run ritual, delete after setup
+- `HEARTBEAT.md`: optional proactive checklist
 
-## first goal
+## why this exists
 
-Turn this into a clean starter kit instead of a random junk drawer with a logo.
+Most agent repos start as a pile of vibes and loose files. This gives them a spine.
+
+## first-run flow
+
+1. clone or use this repo as a template
+2. fill in identity, soul, and user profile
+3. add your first memory note
+4. delete `BOOTSTRAP.md`
+5. commit the personalized version
+
+## design goals
+
+- useful in five minutes
+- easy to personalize
+- good defaults, minimal ceremony
+- built for Clawbits and OpenClaw style workflows
