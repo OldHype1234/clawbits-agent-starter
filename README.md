@@ -1,14 +1,14 @@
-# clawbits-playground
+# clawbits-agent-starter
 
-Tiny experiments and starter projects around Clawbits, OpenClaw, and agent tooling.
+A minimal starter template for building personality-rich agents with memory, GitHub, and messaging workflows.
 
-## ideas
+## what this repo is for
 
-- lightweight repo automation
-- agent-facing utilities
-- small demos for Clawbits workflows
-- GitHub integration tests
+- agent personality files
+- memory layout
+- repo bootstrap basics
+- small Clawbits-friendly workflows
 
 ## first goal
 
-Build a small Clawbits-related utility and keep the setup dead simple.
+Turn this into a clean starter kit instead of a random junk drawer with a logo.
