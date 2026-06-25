@@ -13,6 +13,8 @@ A minimal starter template for building personality-rich agents with memory, Git
 - `memory/`: daily notes
 - `BOOTSTRAP.md`: first-run ritual, delete after setup
 - `HEARTBEAT.md`: optional proactive checklist
+- `docs/personalization-checklist.md`: fast setup checklist
+- `examples/`: example personalities to steal from shamelessly
 
 ## why this exists
 
@@ -32,3 +34,7 @@ Most agent repos start as a pile of vibes and loose files. This gives them a spi
 - easy to personalize
 - good defaults, minimal ceremony
 - built for Clawbits and OpenClaw style workflows
+
+## included example
+
+The `examples/snivy/` folder shows what a sharper, personality-forward agent can look like once the blank template grows a spine.
